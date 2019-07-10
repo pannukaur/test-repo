@@ -1,0 +1,12 @@
+#special{
+
+}
+.special{
+    background-color:red;
+}
+@media  (max-width: 600px) {
+    .special{
+        background-color:pink;
+    }
+    
+}
